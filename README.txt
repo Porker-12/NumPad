@@ -1,1 +1,1 @@
-I haven't done any coding yet for it ive only made the pcb and started the case
+I haven't done any coding yet for it ive only made the pcb and finished the case
