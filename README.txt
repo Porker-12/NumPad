@@ -1,1 +1,1 @@
-I haven't done any coding yet for it ive only made the pcb and finished the case
+Finished coding case needs to be fixed
